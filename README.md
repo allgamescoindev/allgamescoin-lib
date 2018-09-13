@@ -1,5 +1,5 @@
 # allgamescoin-lib-.netcore
-AllGamesCoin development tools
+AllGamesCoin development tools, access the AllGamesCoin network with rpc.
 
 ## Building
 
