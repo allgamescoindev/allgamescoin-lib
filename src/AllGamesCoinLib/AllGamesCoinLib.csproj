@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>AllGamesCoinLib</Title>
+    <Description>The RPC wrapper for AllGamesCoin in .NET.</Description>
+    <Copyright>© AllGamesCoin Dev 2018</Copyright>
+    <Version>1.0.0.0</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Authors>AllGamesCoin Dev</Authors>
+    <PackageLicenseUrl>https://github.com/allgamescoindev/allgamescoin-bil/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/allgamescoindev/allgamescoin-bil</PackageProjectUrl>
+    <PackageTags>c#;dotnet;allgamescoin</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+</Project>
